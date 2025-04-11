@@ -16,3 +16,16 @@ const sum = (...args) => {
   console.log(average(-3, 4, 2, 10)); // 3.25
   console.log(average()); // null
 
+
+//========================================================
+
+const aaaa = (1,2,3,5,143);
+
+
+const multiplyS = (math.multiply(aaaa));
+
+console.log(multiplyS);
+
+
+
+
